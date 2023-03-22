@@ -11,7 +11,7 @@ module.exports = {
         primary2: "#E4BBA1",
         primary3: "#D9D9D9",
         borderColor: "#787878",
-        bgcolor: "#EDEDED",
+        bgColor: "#EDEDED",
         bgGreen: "#023423",
       },
     },
